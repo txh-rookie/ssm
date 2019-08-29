@@ -3,7 +3,8 @@ ssm整合案列
 
 ＃旅游项目的后台管理
 
-技术：春天
+技术：
+spring
 springMVC
 mybatis
 
