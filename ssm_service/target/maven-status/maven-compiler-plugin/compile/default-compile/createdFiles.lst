@@ -1,0 +1,8 @@
+cn\txh\service\IOrdersService.class
+cn\txh\service\Impl\UserServiceImpl.class
+cn\txh\service\IUserService.class
+cn\txh\service\IProductService.class
+cn\txh\service\Impl\IRoleServiceImpl.class
+cn\txh\service\IRoleService.class
+cn\txh\service\Impl\IOrdersServiceImpl.class
+cn\txh\service\Impl\IProductServiceImpl.class

@@ -1,0 +1,7 @@
+cn\txh\domain\UserInfo.class
+cn\txh\domain\Orders.class
+cn\txh\domain\Permission.class
+cn\txh\domain\Role.class
+cn\txh\domain\Traveller.class
+cn\txh\domain\Member.class
+cn\txh\domain\Product.class
